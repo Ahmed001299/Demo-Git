@@ -1,2 +1,2 @@
 # Test Git
-Hello World
+Hello World.
